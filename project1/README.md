@@ -2,7 +2,7 @@
 
 Project I - Variables and Control Structures
 
-## Description
+## Description
 
 This program converts temperature from Celsius, Fahrenheit and Kelvin to Celsius, Fahrenheit or Kelvin.
 
